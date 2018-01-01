@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 
+<!-- just added this commit to see changes on Github -->
+
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <script src="https://www.paypalobjects.com/api/checkout.js"></script>
